@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655011563768",
+    "project_id": "olada-52d35",
+    "storage_bucket": "olada-52d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655011563768:android:257e2729977c217a9dd30d",
+        "android_client_info": {
+          "package_name": "com.olada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655011563768-a8vqrjg4mosh90qva2m0840p6po2b9bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olada",
+            "certificate_hash": "01580b7add3dc4c3448df59cb262143d8a7e0ba5"
+          }
+        },
+        {
+          "client_id": "655011563768-q5hbp83hut2vldie11tur1gt3kicc8un.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olada",
+            "certificate_hash": "f8efb11483f984fce2b63536e997c1f04a861ac3"
+          }
+        },
+        {
+          "client_id": "655011563768-s6hp4hhuqho0eiigfo7e3fmi2nkolm8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPsyotXMbjnygaOhXqWHEbEn3t7k-kaxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655011563768-s6hp4hhuqho0eiigfo7e3fmi2nkolm8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
